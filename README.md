@@ -259,4 +259,24 @@ The agent will guide you through ad creation via the terminal.
 ---
 
 
+### Improvements:
+
+1. **Persistent token storage**
+
+   > “Store OAuth tokens securely in a database instead of in-memory.”
+
+2. **Schema validation**
+
+   > “I would add a confidence or validation score to LLM outputs and only accept them if they meet a quality threshold.”.”
+
+3. **Optional UI**
+
+   > “Add a minimal web UI on top of the CLI without changing the agent logic.”
+
+---
+
+
+
+
+
 
